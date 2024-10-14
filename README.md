@@ -1,0 +1,1 @@
+# infrared_thermography_temperature_project
